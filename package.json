@@ -1,5 +1,5 @@
 {
-  "name": "babel-plugin-transform-react-pug-coffee",
+  "name": "babel-plugin-transform-react-pug-coffee7",
   "version": "7.0.1",
   "description": "Add coffee support to babel-plugin-transform-react-pug-coffee",
   "main": "dist/index.js",
